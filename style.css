@@ -13,7 +13,7 @@ body {
     height: auto;
 }
 
-.wrapper {
+.second-wrapper {
     max-width: 900px;
 }
 
@@ -21,10 +21,14 @@ body {
     width: 100%;
 }
 
-.third-pic { 
+.third-wrapper {
     margin-bottom: 20px;
+}
+
+.third-pic {
     max-width: 900px;
     width: 100%;
+    object-fit: cover;
 }
 
 
